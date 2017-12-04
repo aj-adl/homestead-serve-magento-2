@@ -12,7 +12,7 @@ If you have never used Homestead before, you might be better suited with the pur
 
 ## Usage
 
-Locate the `Homestead` directory where the vagrantfile and `scripts` dolfer is located - this will commonly be in `~/Homestead/` for users who install it globally.
+Locate the `Homestead` directory where the vagrantfile and `scripts` folder is located - this will commonly be in `~/Homestead/` for users who install it globally.
 
 Within the `scripts` folder, copy in `serve-magento.sh` from this project
 
