@@ -30,7 +30,7 @@ An example using the default Homestead.yaml is given below
 #
 # Assumes default 'code' shared folder
 sites:
-    - map: magento2.dev
+    - map: magento2.test
       to: /home/vagrant/code/magento2
       type: magento
 #
@@ -43,7 +43,7 @@ Then provision the site as per normal
 ```
 or
 ```
-~/Homestead/homestead up --provision
+~/.Homestead/homestead up --provision
 ````
 If you have [installed the `homestead` global bash alias](https://laravel.com/docs/5.5/homestead#accessing-homestead-globally) then the paths don't matter
 
